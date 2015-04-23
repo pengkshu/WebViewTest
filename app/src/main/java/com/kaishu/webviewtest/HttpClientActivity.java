@@ -115,7 +115,6 @@ public class HttpClientActivity extends ActionBarActivity implements View.OnClic
                         //使用JSON解析JSON数据
                         //parseJSONWithJSONObject(response);
 
-
                         //使用GSON解析JSON数据
                         paserJSONWithGSON(response);
 
