@@ -6,7 +6,9 @@ package com.kaishu.webviewtest;
 public class App {
 
     private String id;
+
     private String name;
+
     private String version;
 
     public String getId() {
